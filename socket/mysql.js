@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
     host: "mysql19.ezhostingserver.com",
     user: "admincl",
     database: "cricketlocal",
-    password: "DEEPak@505"
+    password: "DEEPak****"
 });
 
 // // A simple SELECT query
